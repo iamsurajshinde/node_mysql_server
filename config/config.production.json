@@ -1,0 +1,10 @@
+{
+    "databaseConfig": {
+        "host": "localhost",
+        "database": "sample",
+        "user": "root",
+        "password": "root",
+        "port": 3306,
+        "dialect": "mysql"
+    }
+}
